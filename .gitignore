@@ -1,5 +1,8 @@
 # Custom blocks file
 blocks.h
+*.orig
+*.rej
+patches
 
 # Prerequisites
 *.d
